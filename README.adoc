@@ -4,3 +4,11 @@
 this is an example plugin for the enterprise MQTT broker HiveMQ which demonstrates the use of the RESTService.
 
 You can read more about it in this https://www.hivemq.com/blog/restful-http-apis-with-hivemq/[blog post].
+
+= Contributing
+
+If you want to contribute to HiveMQ REST Example Plugin, see the link:CONTRIBUTING.md[contribution guidelines].
+
+= License
+
+HiveMQ REST Example Plugin is licensed under the `APACHE LICENSE, VERSION 2.0`. A copy of the license can be found link:LICENSE.txt[here].
